@@ -2,7 +2,6 @@ package studentlist;
 
 public class StudentList {
     //hello this is commit
-    //hello this is comment for rollback
     public static void main(String[] args) {
         Student s1 = new Student("Taymour", "s1");
 
