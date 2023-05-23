@@ -7,6 +7,7 @@ public class Student {
     //some comment at 9:43
     //some comment at 9:46
     //doing it by myself
+    //self made pull request
     public Student(String sname, String sID) {
         this.sname = sname;
         this.sID = sID;
